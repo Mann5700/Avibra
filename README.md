@@ -1,5 +1,4 @@
-# 🛡️ Avibra — Habits‑to‑Insurance App 
-# (UI/UX + System Design)
+# 🛡️ Avibra (UI/UX + System Design)
 
 **Avibra** is a mission‑driven app concept that turns **good habits into insurance & wellness
 benefits**. This repository is the **software‑design project** for Avibra: it captures the problem,
